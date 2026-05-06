@@ -70,7 +70,7 @@ export default function LandingPage() {
           handle: "@michelle",
           testimonial: "The service is truly amazing, everyone is kind, welcoming, and attentive. The salsa is always so good!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/mangal-salad-decorated-with-scallion-basil-leaves_140725-7972.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mangal-salad-decorated-with-scallion-basil-leaves_140725-7972.jpg?_wi=1",
           imageAlt: "authentic mexican restaurant interior",
         },
         {
@@ -78,7 +78,7 @@ export default function LandingPage() {
           handle: "@shellieg",
           testimonial: "Food was delicious and tasty. Ordered the combo, it was warm and not salty or oily.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-tender-parisian-girl-stylish-outfit-sends-air-kiss-portrait-young-woman-with-expressive-look_197531-12004.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-tender-parisian-girl-stylish-outfit-sends-air-kiss-portrait-young-woman-with-expressive-look_197531-12004.jpg?_wi=1",
           imageAlt: "authentic mexican restaurant interior",
         },
         {
@@ -86,7 +86,7 @@ export default function LandingPage() {
           handle: "@amelia",
           testimonial: "Been coming here for years, always have a great experience with authentic flavors.",
           rating: 4,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-women-eating-together_23-2149061571.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-women-eating-together_23-2149061571.jpg?_wi=1",
           imageAlt: "authentic mexican restaurant interior",
         },
         {
@@ -94,7 +94,7 @@ export default function LandingPage() {
           handle: "@davidl",
           testimonial: "Excellent dinner place, great flavor and the owners are always on site.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-enjoying-dining-table-while-communicating-with-her-husband_637285-3516.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-enjoying-dining-table-while-communicating-with-her-husband_637285-3516.jpg?_wi=1",
           imageAlt: "authentic mexican restaurant interior",
         },
         {
@@ -102,7 +102,7 @@ export default function LandingPage() {
           handle: "@sarahk",
           testimonial: "Love the atmosphere, perfect for a casual lunch after a busy day.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/friends-eating-pizza-side-view_23-2149872410.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/friends-eating-pizza-side-view_23-2149872410.jpg?_wi=1",
           imageAlt: "authentic mexican restaurant interior",
         },
       ]}
@@ -116,7 +116,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/mangal-salad-decorated-with-scallion-basil-leaves_140725-7972.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/mangal-salad-decorated-with-scallion-basil-leaves_140725-7972.jpg?_wi=2"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -184,7 +184,7 @@ export default function LandingPage() {
           title: "Google Rating",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/smiling-tender-parisian-girl-stylish-outfit-sends-air-kiss-portrait-young-woman-with-expressive-look_197531-12004.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/smiling-tender-parisian-girl-stylish-outfit-sends-air-kiss-portrait-young-woman-with-expressive-look_197531-12004.jpg?_wi=2"
       mediaAnimation="slide-up"
       metricsAnimation="slide-up"
     />
@@ -289,7 +289,7 @@ export default function LandingPage() {
           quote: "The service is truly amazing, everyone is kind, welcoming, and attentive.",
           name: "Michelle P.",
           role: "Regular Customer",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-women-eating-together_23-2149061571.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-women-eating-together_23-2149061571.jpg?_wi=2",
         },
         {
           id: "r2",
@@ -297,7 +297,7 @@ export default function LandingPage() {
           quote: "Food was delicious and tasty. It’s not salty nor oily like other places.",
           name: "Shellie G.",
           role: "Foodie",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-enjoying-dining-table-while-communicating-with-her-husband_637285-3516.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-enjoying-dining-table-while-communicating-with-her-husband_637285-3516.jpg?_wi=2",
         },
         {
           id: "r3",
@@ -305,7 +305,7 @@ export default function LandingPage() {
           quote: "We have been coming here for years and always had a great experience.",
           name: "Amelia R.",
           role: "Local",
-          imageSrc: "http://img.b2bpic.net/free-photo/friends-eating-pizza-side-view_23-2149872410.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/friends-eating-pizza-side-view_23-2149872410.jpg?_wi=2",
         },
         {
           id: "r4",
